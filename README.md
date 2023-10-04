@@ -1,7 +1,11 @@
--  oii, eu sou yngrid👋
+-  Oii, eu sou yngrid👋
 
-- 🌱 Estou aprendendo a programar
-  
+- 💻Estou aprendendo a programar
+- 📍 Guanambi-BA
+
+  <div>
+    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+  </div>
 
 
 <!---
