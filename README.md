@@ -1,4 +1,4 @@
--  Oii, eu sou yngrid👋
+##Oii, eu sou yngrid👋
 
 - 💻Estou aprendendo a programar
 - 📍 Guanambi-BA
