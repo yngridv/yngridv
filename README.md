@@ -2,7 +2,7 @@
 
 - 💻Estou aprendendo a programar
 - 📍 Guanambi-BA
-- 📭 email:yngridv.castro@gmail.com
+- 📭Email:yngridv.castro@gmail.com
 
  [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_yngrid.v?igshid=OGQ5ZDc2ODk2ZA==)
 [![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yngridvv?_t=8gDbE5xPb4n&_r=1)
