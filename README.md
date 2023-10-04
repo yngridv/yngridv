@@ -3,9 +3,7 @@
 - 💻Estou aprendendo a programar
 - 📍 Guanambi-BA
 
-  <div>
-    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-  </div>
+ [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_yngrid.v?igshid=OGQ5ZDc2ODk2ZA==)
 
 
 <!---
