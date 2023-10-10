@@ -1,5 +1,5 @@
 ### *Oii, eu sou yngrid*👋
-
+<font color="pink">Este texto esta rosa.</font>
 
 - 💻Estou aprendendo a programar
 - 📍 Guanambi-BA
