@@ -1,5 +1,6 @@
 ### *Oii, eu sou yngrid*👋
-< p style="color: purple">Este é um paragrafo roxo.</p>
+< p style="color: purple">
+</p>
 
 - 💻Estou aprendendo a programar
 - 📍 Guanambi-BA
