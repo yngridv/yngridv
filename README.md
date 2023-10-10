@@ -1,5 +1,5 @@
 ### *Oii, eu sou yngrid*👋
-<font color="pink">Este texto esta rosa.</font>
+< p style="color: purple">Este é um paragrafo roxo.</p>
 
 - 💻Estou aprendendo a programar
 - 📍 Guanambi-BA
