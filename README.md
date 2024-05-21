@@ -1,7 +1,6 @@
 
 ### *Oii, eu sou yngrid*👋
 
-- 💻Estou aprendendo a programar
 - 📍 Guanambi-BA
 - 📭Email:yngridv.castro@gmail.com
 
