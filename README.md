@@ -1,5 +1,5 @@
 
-### *Oii, eu sou yngrid*👋
+### *Oii, eu sou yngrid*
 
 - 📍 Guanambi-BA
 - 📭Email:yngridv.castro@gmail.com
