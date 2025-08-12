@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#060270=120&section=header"/>
 
-
-
 - 📍 Guanambi-BA
 - 📭Email:yngridv.castro@gmail.com
 
